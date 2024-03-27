@@ -8,6 +8,9 @@ import About from './components/About';
 import Contact from './components/Contact';
 import ErrorElement from './components/Error';
 
+
+// This is for learning how commit works
+
 /* Components of Our Food-Order App
  * Header
  * - Logo
